@@ -1,0 +1,72 @@
+/* Inserte su codigo aqui */
+*{
+	font-family: "Taviraj"
+}
+.uno{
+	height: 30%;
+	width: 100%;
+	background-color: #FCCE09;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+	color:#FEFFFF;
+}
+.sumate{
+	padding:10% 0;
+}
+.sumate button{
+	width: 100px;
+	height: 50px;
+	border:0;
+	background: #FCBA43;
+	color: white;
+	font-family: times;
+}
+.span{
+	padding: 2% 0;
+}
+.span a:nth-child(2){
+	display: inline;
+	padding: 0 23px;	
+}
+.centro1{
+	padding:30% 0;
+	color:white;
+}
+.dos{
+	height: 100%;
+	width: 100%;
+	background-color: #EAEAE9;
+	padding-top: 5%;
+}
+.ejemplo{
+	width: 100%;
+	background-color: white;
+	padding: 3%;
+	margin: 14px 0;
+}
+.imagen{
+	width: 300px;
+	height: 300px;
+	background-color: #cccccc; 
+}
+.ejemplo h2{
+	color: #868683;
+	font-size: 28px;
+}
+.ejemplo p{
+	color: #c9c3c6;  
+}
+.leer{
+	background-color: #FDBA43;
+	border:0;
+	height: 40px;
+	width: 80px;
+}
+.tres{
+	background-color: #262624;
+	font-size: 16px;
+	padding: 40px 0;
+	color:white;
+}
